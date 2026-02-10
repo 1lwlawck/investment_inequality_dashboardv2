@@ -52,7 +52,7 @@ export function GarudaEmblem({ size = 56 }: { size?: number }) {
       <path d="M65 70 L70 90 L65 85 Z" fill="#002C5F"/>
       
       {/* Central Shield */}
-      <ellipse cx="60" cy="55" rx="8" cy="10" fill="#DC143C"/>
+      <ellipse cx="60" cy="55" rx="8" ry="10" fill="#DC143C"/>
       
       {/* Star */}
       <path 
